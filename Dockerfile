@@ -1,4 +1,4 @@
-FROM tensorflow/tensorflow:1.5.0-py3
+FROM tensorflow/tensorflow:1.6.0-py3
 
 ENV HOME=/home/ubuntu \
 	PROJECT_HOME=/home/ubuntu/workspace/keras-docker-hello-world
