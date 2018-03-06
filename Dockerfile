@@ -1,7 +1,7 @@
 FROM tensorflow/tensorflow:1.5.0-py3
 
 ENV HOME=/home/ubuntu \
-	PROJECT_HOME=/home/ubuntu/workspace/TFKerasDockerHelloWorld
+	PROJECT_HOME=/home/ubuntu/workspace/keras-docker-hello-world
 
 WORKDIR $PROJECT_HOME
 
